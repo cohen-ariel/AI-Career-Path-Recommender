@@ -1,15 +1,3 @@
-# Contents
-- [Overview](#conclusion)
-- [Install](#install)
-- [Experiments](#experiments)
-  - [Injection Attacks in LLaVA](#injection-attacks-in-llava) :volcano:
-    - [Image Perturbation](#image-perturbation-llava)
-  - [Injection Attacks in PandaGPT](#injection-attacks-in-pandagpt) :panda_face:
-    - [Image Perturbation](#image-perturbation-pandagpt)
-    - [Sound Perturbation](#sound-perturbation)
-- [Other Examples](#other-examples)
-- [Citation](#citation)
-
 # AI Career Path Recommender
 
 In our project, we focus on providing AI-driven features for everyday LinkedIn end-users, by creating an extension which recommends a career path to users. 
@@ -18,6 +6,18 @@ The suggested career path will be one of 10 pre-determined groups, and will be b
 In addition, as we know, one of the most important parameters when searching for a job is the salary. Thus, we will include the average salary of the recommended career path alongside the recommendation. 
 This information will also allow the user to come to job interviews with an expected salary in mind.
 
+## Contents
+- [Running Instructions](#running-instructions)
+  - [Project Notebook](#project-notebook)
+  - [Data Scraping Code Appendix](#data-scraping-code-appendix)
+  - [LLM Code Appendix](#llm-code-appendix)
+- [Project Overview](#project-overview)
+  - [Feature Extraction](#feature-extraction)
+  - [Label Extraction](#label-extraction)
+  - [Data Enrichment](#data-enrichment-using-web-scraping)
+  - [Model Selection](#model-selection)
+  - [User Interface](#user-interface-implementation)
+- [Conclusion](#conclusion)
 
 ## Running Instructions
 Our code for this project includes the following files:
