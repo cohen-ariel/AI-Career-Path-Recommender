@@ -1,3 +1,15 @@
+# Contents
+- [Overview](#conclusion)
+- [Install](#install)
+- [Experiments](#experiments)
+  - [Injection Attacks in LLaVA](#injection-attacks-in-llava) :volcano:
+    - [Image Perturbation](#image-perturbation-llava)
+  - [Injection Attacks in PandaGPT](#injection-attacks-in-pandagpt) :panda_face:
+    - [Image Perturbation](#image-perturbation-pandagpt)
+    - [Sound Perturbation](#sound-perturbation)
+- [Other Examples](#other-examples)
+- [Citation](#citation)
+
 # AI Career Path Recommender
 
 In our project, we focus on providing AI-driven features for everyday LinkedIn end-users, by creating an extension which recommends a career path to users. 
