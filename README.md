@@ -1,10 +1,8 @@
 # AI Career Path Recommender :robot: :briefcase:
 
-In our project, we focus on providing AI-driven features for everyday LinkedIn end-users, by creating an extension which recommends a career path to users. 
-The suggested career path will be one of 10 pre-determined groups, and will be based on the user’s data (education, experience, personal, etc.).
+In our project, we focus on providing AI-driven features for everyday end-users by creating a LinkedIn extension which recommends a career path to users. Moreover, the recommendation will include suggestions for popular jobs within that path. The recommended career path will be one of 10 pre-determined groups, and will be based on the user’s data (education, experience, personal, etc.).
 
-In addition, as we know, one of the most important parameters when searching for a job is the salary. Thus, we will include the average salary of the recommended career path alongside the recommendation. 
-This information will also allow the user to come to job interviews with an expected salary in mind.
+In addition, as we know, one of the most important parameters when searching for a job is the salary. Thus, alongside the recommendation, we include the estimated salary of the recommended career path as well as that of the popular jobs within it. This information will also allow the user to come to job interviews with an expected salary in mind.
 
 ## Contents
 - [Running Instructions](#running-instructions)
