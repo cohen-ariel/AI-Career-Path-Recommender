@@ -1,4 +1,4 @@
-# AI Career Path Recommender
+# AI Career Path Recommender :robot: :briefcase:
 
 In our project, we focus on providing AI-driven features for everyday LinkedIn end-users, by creating an extension which recommends a career path to users. 
 The suggested career path will be one of 10 pre-determined groups, and will be based on the user’s data (education, experience, personal, etc.).
